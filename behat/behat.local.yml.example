@@ -1,7 +1,7 @@
 default:
   extensions:
     Behat\MinkExtension:
-      base_url: "http://pages.shoov.io"
+      base_url: "http://dev.theoncallroom.com/app/webroot/design/Sub-Admin/"
 
       ## Selenium integration
       # selenium2:
